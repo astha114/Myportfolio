@@ -66,7 +66,7 @@ const AboutSection = (props)=>{
             >
                 I am a developer
                 <br />
-                learn how to build 3D apps
+                who thrives on turning ideas into reality through code.
             </motion.p>
             <motion.button onClick={()=> setSection(3)} className="bg-indigo-600 text-white py-4 px-8 roundd-lg font-bold text-lg mt-16"
                       initial={{
